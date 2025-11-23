@@ -21,7 +21,7 @@ if(s==a){
 }
 else 
    cout<<"Number is not Armstrong";
-  return 0;
+  return s;
 }
 int main() {
   int n,a,k,b;
