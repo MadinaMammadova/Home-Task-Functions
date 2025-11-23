@@ -6,7 +6,7 @@ int evenorodd(int &m){
 }
 else
   cout<<"Number is Odd";
- return 0;
+ return m;
 }
 int main() {
   int m;
