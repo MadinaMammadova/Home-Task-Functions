@@ -12,7 +12,7 @@ int main() {
   cin>>a;
   cout<<"Insert Number two = ";
   cin>>b;
-int swapnumberone=swappingnumbers(a,b);
+int result=swappingnumbers(a,b);
   cout<<"Swap Number one = "<<a<<endl;
   cout<<"Swap Number two = "<<b;
  return 0;
